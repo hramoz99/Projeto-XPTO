@@ -1,6 +1,6 @@
 # Projeto XPTO
 
-                                   Projeto introdutório a Web Standard e as liguagens html5 e css.
+                       Projeto introdutório a Web Standard e as liguagens html5 e css.
                                  
 
 ## Sistema Web 💻
